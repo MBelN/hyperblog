@@ -4,5 +4,5 @@ Belen Navarro tiene 24 años.
 
 Mañana nos enfocaremos en su vida laboral.
 
-Hola nuevo cambio!
+Pero hoy hablaremos de como esta aprendiendo git :D
 
