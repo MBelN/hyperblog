@@ -3,4 +3,7 @@ Esta es mi historia.
 Belen Navarro tiene 24 años y nacio en Argentina.
 
 Hoy hablaremos de su vida y obra maestra
+Mañana nos enfocaremos en su vida laboral.
+
+Pero hoy hablaremos de como esta aprendiendo git :D
 
